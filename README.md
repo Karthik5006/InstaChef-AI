@@ -8,6 +8,14 @@ InstaChef AI is an autonomous, multimodal "Recipe-to-Cart" agent designed to mak
 3. **Diff Engine (Fuzzy Matching)**: Calculates the exact delta between what the recipe requires and what you already own.
 4. **Swiggy MCP Integration**: Automatically talks to the Swiggy Instamart API (via the Builders Club MCP standard) to source and add the missing ingredients to your cart for instant delivery.
 
+## Screenshots
+<div align="center">
+  <img src="./demo-1.png" alt="Demo 1" width="45%">
+  <img src="./demo-2.png" alt="Demo 2" width="45%">
+  <img src="./demo-3.png" alt="Demo 3" width="45%">
+  <img src="./demo-4.png" alt="Demo 4" width="45%">
+</div>
+
 ## Architecture
 - **Frontend**: Premium Glassmorphism React interface built with Vite.
 - **Backend**: Node.js / Express acting as an Agent Orchestrator.
