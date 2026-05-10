@@ -1,4 +1,4 @@
-# InstaChef AI (formerly HydroMind) 👨‍🍳🛒
+# InstaChef AI 👨‍🍳🛒
 
 InstaChef AI is an autonomous, multimodal "Recipe-to-Cart" agent designed to make cooking authentic regional Indian dishes completely frictionless. It transforms natural language requests into structured recipes, scans your pantry using computer vision to see what you already have, and autonomously populates your Swiggy Instamart cart via the **Swiggy MCP (Model Context Protocol)** integration.
 
